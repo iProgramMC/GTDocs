@@ -1,2 +1,2 @@
 # GTDocs
-GT Documentation: things found in the game (without hacks)
+GT Documentation: things found in the game
